@@ -1,0 +1,11 @@
+node_modules
+*.log
+dist
+coverage
+.DS_Store
+.history
+*/.DS_Store
+report.*.*
+.idea/
+
+*storybook.log
